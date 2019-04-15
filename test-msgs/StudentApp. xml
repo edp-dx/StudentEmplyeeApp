@@ -1,0 +1,14 @@
+<Student>
+	<FirstName>Smith</FirstName>
+	<LastName>David</LastName>
+	<YearOfBirth>1982</YearOfBirth>
+	<Phone>+1123123123</Phone>
+	<Email>s.david@gmail.com</Email>
+	<Sex>Male</Sex>
+	<Course>MTECH</Course>
+	<YOG>2015</YOG>
+	<Marks>
+		<Achieved>342</Achieved>
+		<OutOf>500</OutOf>
+	</Marks>
+</Student>
